@@ -105,7 +105,6 @@
 
 
 
-
 # 🌾 Rice Type Classification (Binary)
 
 This project focuses on classifying rice grain images into two types using a Convolutional Neural Network (CNN). The dataset consists of image samples of rice grains, and the goal is to accurately distinguish between the two categories.
